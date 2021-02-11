@@ -774,7 +774,7 @@ a.min1:hover{
     width: 100%;
 }
 .product-area {
-    background: rgba(0, 0, 0, 0) url("img/bg-img/bg-have-overlay.jpg") ;
+    background: rgba(0, 0, 0, 0) url("img/bg-have-overlay.jpg") ;
     background-position: center center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -795,7 +795,7 @@ a.min1:hover{
     text-transform: uppercase;
 }
 .pro-text::after {
-    background: rgba(0, 0, 0, 0) url("assets/images/underline-style-1.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/underline-style-1.png") no-repeat scroll 0 0;
 }
 .product-area .tb-product-item-inner .onsale, .product-tab-area .tb-product-item-inner .onsale, .design-area .tb-product-item-inner .onsale, .shop-area .tb-product-item-inner .onsale, .single-pro-area7 .tb-product-item-inner .onsale {
     background: #fff none repeat scroll 0 0;
@@ -1131,7 +1131,7 @@ line-height: 39px;
     display: none;
 }
 .product-tab-area .vc_tta-tab .active::after, .design-area .vc_tta-tab .active::after {
-    background: rgba(0, 0, 0, 0) url("img/icon-img/underline-style-2.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/underline-style-2.png") no-repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 50%;
@@ -1227,7 +1227,7 @@ line-height: 39px;
 }
 
 .lastest-area .lastest-from::after, .design-area .lastest-from::after{
-    background: rgba(0, 0, 0, 0) url("img/icon-img/underline-style-2.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/underline-style-2.png") no-repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 50%;
