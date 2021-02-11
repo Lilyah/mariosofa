@@ -1612,7 +1612,7 @@ address {
     top: 38%;
 }
 .client-area {
-    background-image: url("img/bg-img/bg.jpg");
+    background-image: url("img/bg.jpg");
     background-attachment: fixed !important;
     background-size: cover !important;
 }
@@ -1693,7 +1693,7 @@ address {
 }
 .money-area {
     background-attachment: fixed !important;
-    background-image: url("img/bg-img/bg1.jpg");
+    background-image: url("img/bg1.jpg");
     background-position: center 100px !important;
     background-size: cover !important;
 }
@@ -2021,7 +2021,7 @@ address {
 }
 .home-5.money-area {
     background-attachment: fixed !important;
-    background-image: url("img/bg-img/05_Homepage.jpg");
+    background-image: url("img/05_Homepage.jpg");
     background-position: center 120px !important;
     background-size: cover !important;
 }
@@ -2092,7 +2092,7 @@ address {
 /*--------------------- 8. contact--------------------*/
 .contact-img-area {
     background-color: transparent;
-    background-image: url("img/bg-img/bg-pagetitle.jpg");
+    background-image: url("img/bg-pagetitle.jpg");
     background-position: center top;
     background-repeat: no-repeat;
     padding: 200px 0 100px;
