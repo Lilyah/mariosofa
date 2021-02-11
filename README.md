@@ -1,0 +1,2 @@
+# mariosofa
+mariosofa.com static
