@@ -1,2 +1,1 @@
-# mariosofa
-mariosofa.com static
+# Broken as is copy
